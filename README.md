@@ -2,7 +2,7 @@
 
 A Spotify Clone App built with Flutter Dart.
 
-## Quick Preview
+## 🔥 Quick Preview
 <p align="center">
   <img src="https://github.com/youssifsamir/SpotifyClone-App/assets/113045942/abdf652c-2c0e-40ff-9343-80329cb12ca6" width="300" height="650" />
 </p>
